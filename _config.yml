@@ -1,7 +1,7 @@
 name: MIKEHARDIE.NET
 favicon: null
-layout_spectrum: 0.21893784613348544
-typography_spectrum: 0.6259788144379854
+layout_spectrum: 1
+typography_spectrum: 0.42653
 title: 'The way it was, is and is to come...'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#ffffff'
+    - '#cecece'
+    - '#929292'
+    - '#6a6a6a'
   brandStrength: 0.5307643353007734
   lightness: 0.7834238200448453
   saturation: 0.522218873957172
